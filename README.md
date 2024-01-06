@@ -1,2 +1,2 @@
-# Kotlin-Playground-
+# Kotlin-Playground
 Exploring Spring with Kotlin
